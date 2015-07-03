@@ -1,7 +1,7 @@
 .version.deejay /* version checker */
 {
-	color: #000018;
-	background-color: #167B7B;
+	color: #000016;
+	background-color: #B2AF12;
 }
 
 .html
@@ -113,9 +113,9 @@
 	min-height: 57px;
 	background-color: transparent;
 	color: #FF0000;
-	line-height: 56px;
 	text-align: center;
 	font-size: 47px;
+	line-height: 56px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 20px;
 	margin-top: 159px;

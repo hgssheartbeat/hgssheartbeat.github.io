@@ -1,7 +1,7 @@
 .version.site_info /* version checker */
 {
-	color: #000011;
-	background-color: #DF7322;
+	color: #000010;
+	background-color: #1B566F;
 }
 
 .html
@@ -29,9 +29,9 @@
 	width: 391px;
 	min-height: 26px;
 	background-color: transparent;
-	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
+	line-height: 36px;
 	font-family: Trebuchet, Trebuchet MS, Tahoma, Arial, sans-serif;
 	margin-left: 1px;
 	position: relative;
