@@ -1,0 +1,30 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1435933449461">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_header---footer.css" crc="4272684878" ref="about:deejay"/>
+    <file name="master_footer.css" crc="527380880" ref="about:deejay"/>
+    <file name="index.css" crc="297949571" ref="index"/>
+    <file name="under-construction.css" crc="3959529368" ref="under-construction"/>
+    <file name="about.css" crc="4194320669" ref="about"/>
+    <file name="site-info.css" crc="299856674" ref="site-info"/>
+    <file name="deejay.css" crc="404126587" ref="deejay"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:deejay:site-info:under-construction"/>
+    <file name="museutils.js" crc="183364071" ref="index:about:deejay:site-info:under-construction"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about:deejay:site-info:under-construction"/>
+  </folder>
+  <folder name="images">
+    <file name="imag0064.jpg" crc="324478810" ref="index"/>
+    <file name="v2tp.png" crc="3875468834" seo="true" ref="index:about"/>
+    <file name="v2tp195x98.png" crc="3865395917" seo="true" ref="about"/>
+    <file name="logotpblack.png" crc="4287610351" seo="true" ref="deejay:site-info:under-construction"/>
+    <file name="hillgroveseclogoicon.png" crc="499048145" seo="true" ref="site-info"/>
+  </folder>
+  <file name="index.html" crc="131895471" seo="true" mt="1435929735336" redirect="true"/>
+  <file name="about.html" crc="38810230" seo="true" mt="1435932524730" redirect="true"/>
+  <file name="deejay.html" crc="350731215" seo="true" mt="1435933254490" redirect="true"/>
+  <file name="site-info.html" crc="4095987067" seo="true" mt="1435930556636" redirect="true"/>
+  <file name="under-construction.html" crc="3822552889" seo="true" mt="1435930776161" redirect="true"/>
+</manifest>

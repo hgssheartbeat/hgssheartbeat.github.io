@@ -1,0 +1,66 @@
+#u80
+{
+	background-color: #000000;
+}
+
+#u80_align_to_page
+{
+	position: relative;
+}
+
+#u87-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: depot-new-web, sans-serif;
+	font-weight: 500;
+	position: relative;
+}
+
+#u87-4:hover p
+{
+	color: #00FF00;
+	visibility: inherit;
+}
+
+#u81
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u89-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 29px;
+	font-size: 24px;
+	font-family: depot-new-web, sans-serif;
+	font-weight: 500;
+	position: relative;
+}
+
+#u89-4:hover
+{
+	background-color: transparent;
+}
+
+#u89-4.MuseLinkActive
+{
+	background-color: transparent;
+}
+
+#u89-4:hover p
+{
+	color: #00FFFF;
+	visibility: inherit;
+}
+
+#u87-4.MuseLinkActive p,#u89-4.MuseLinkActive p
+{
+	color: #FF0000;
+	visibility: inherit;
+}
+
