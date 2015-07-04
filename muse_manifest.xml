@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1435934183065">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1435990216527">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_header---footer.css" crc="185034859" ref="about:deejay"/>
+    <file name="master_header---footer.css" crc="4272684878" ref="about:deejay"/>
     <file name="master_footer.css" crc="527380880" ref="about:deejay"/>
     <file name="index.css" crc="4025800737" ref="index"/>
     <file name="under-construction.css" crc="179533623" ref="under-construction"/>
     <file name="about.css" crc="4154851269" ref="about"/>
     <file name="site-info.css" crc="270227055" ref="site-info"/>
-    <file name="deejay.css" crc="380808978" ref="deejay"/>
+    <file name="deejay.css" crc="3822378894" ref="deejay"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:deejay:site-info:under-construction"/>
@@ -18,13 +18,15 @@
   <folder name="images">
     <file name="imag0064.jpg" crc="324478810" ref="index"/>
     <file name="v2tp.png" crc="3875468834" seo="true" ref="index:about"/>
-    <file name="v2tp195x98.png" crc="3865395917" seo="true" ref="about"/>
-    <file name="logotpblack.png" crc="4287610351" seo="true" ref="deejay:site-info:under-construction"/>
+    <file name="v2tp195x98.png" crc="3865395917" seo="true" ref="about:deejay"/>
+    <file name="logotpblack.png" crc="4287610351" seo="true" ref="site-info:under-construction"/>
     <file name="hillgroveseclogoicon.png" crc="499048145" seo="true" ref="site-info"/>
+    <file name="mr hsu kai wai ashley-circle.png" crc="4087918738" seo="true" ref="deejay"/>
+    <file name="facebook-default-no-profile-pic-circle.png" crc="3774226669" seo="true" ref="deejay"/>
   </folder>
   <file name="index.html" crc="313741358" seo="true" mt="1435929735336" redirect="true"/>
   <file name="about.html" crc="4267988307" seo="true" mt="1435932524730" redirect="true"/>
-  <file name="deejay.html" crc="4001429927" seo="true" mt="1435933254490" redirect="true"/>
+  <file name="deejay.html" crc="4260444681" seo="true" mt="1435990199061" redirect="true"/>
   <file name="site-info.html" crc="4095987067" seo="true" mt="1435930556636" redirect="true"/>
   <file name="under-construction.html" crc="3822552889" seo="true" mt="1435930776161" redirect="true"/>
 </manifest>
