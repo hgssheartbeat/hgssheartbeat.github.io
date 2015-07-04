@@ -1,7 +1,7 @@
 .version.deejay /* version checker */
 {
-	color: #0000E3;
-	background-color: #D4DF8E;
+	color: #00000B;
+	background-color: #CB25D9;
 }
 
 .html
@@ -25,6 +25,7 @@
 #page_position_content
 {
 	margin-top: -36px;
+	margin-bottom: -37px;
 	width: 0.01px;
 }
 
@@ -38,7 +39,7 @@
 
 #u87-4
 {
-	z-index: 9;
+	z-index: 14;
 	width: 73px;
 	min-height: 16px;
 	margin-right: -10000px;
@@ -66,7 +67,7 @@
 
 #u81
 {
-	z-index: 7;
+	z-index: 12;
 	width: 195px;
 	margin-right: -10000px;
 	left: 483px;
@@ -74,7 +75,7 @@
 
 #u89-4
 {
-	z-index: 13;
+	z-index: 18;
 	width: 77px;
 	min-height: 16px;
 	margin-right: -10000px;
@@ -102,13 +103,13 @@
 
 #u80,#u80-bw
 {
-	z-index: 6;
+	z-index: 11;
 	min-height: 98px;
 }
 
 #u183-4
 {
-	z-index: 17;
+	z-index: 22;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -124,7 +125,7 @@
 
 #u185
 {
-	z-index: 21;
+	z-index: 26;
 	width: 180px;
 	background-color: transparent;
 	margin-left: 390px;
@@ -134,7 +135,7 @@
 
 #u191-4
 {
-	z-index: 23;
+	z-index: 28;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -150,7 +151,7 @@
 
 #u193-4
 {
-	z-index: 27;
+	z-index: 32;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -166,7 +167,7 @@
 
 #u194
 {
-	z-index: 31;
+	z-index: 36;
 	width: 180px;
 	background-color: transparent;
 	margin-left: 390px;
@@ -176,7 +177,7 @@
 
 #u200-4
 {
-	z-index: 33;
+	z-index: 38;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -192,7 +193,7 @@
 
 #u201
 {
-	z-index: 37;
+	z-index: 42;
 	width: 180px;
 	background-color: transparent;
 	margin-left: 390px;
@@ -202,7 +203,7 @@
 
 #u203-4
 {
-	z-index: 39;
+	z-index: 44;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -218,7 +219,7 @@
 
 #u205
 {
-	z-index: 43;
+	z-index: 48;
 	width: 180px;
 	background-color: transparent;
 	margin-left: 390px;
@@ -228,7 +229,7 @@
 
 #u207-4
 {
-	z-index: 45;
+	z-index: 50;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -244,7 +245,7 @@
 
 #u209
 {
-	z-index: 49;
+	z-index: 54;
 	width: 180px;
 	background-color: transparent;
 	margin-left: 391px;
@@ -254,7 +255,7 @@
 
 #u211-4
 {
-	z-index: 51;
+	z-index: 56;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -270,7 +271,7 @@
 
 #u213
 {
-	z-index: 55;
+	z-index: 60;
 	width: 180px;
 	background-color: transparent;
 	margin-left: 390px;
@@ -280,7 +281,7 @@
 
 #u215-4
 {
-	z-index: 57;
+	z-index: 62;
 	width: 451px;
 	min-height: 37px;
 	background-color: transparent;
@@ -294,12 +295,43 @@
 	position: relative;
 }
 
-#u79-4
+#u218
 {
 	z-index: 2;
+	min-height: 57px;
+}
+
+#u218_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+#u79-4
+{
+	z-index: 3;
 	width: 508px;
 	min-height: 20px;
-	margin-left: 20px;
+	left: 120px;
+}
+
+#u217-4
+{
+	z-index: 7;
+	width: 508px;
+	min-height: 20px;
+	left: 120px;
+	margin-top: 5px;
+}
+
+#u218-bw
+{
+	z-index: 2;
+	min-height: 57px;
 	margin-top: 42px;
 }
 
