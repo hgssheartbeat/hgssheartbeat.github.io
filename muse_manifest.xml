@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1435990862325">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1435991057094">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_header---footer.css" crc="185034859" ref="about:deejay"/>
@@ -25,8 +25,8 @@
     <file name="facebook-default-no-profile-pic-circle.png" crc="3774226669" seo="true" ref="deejay"/>
   </folder>
   <file name="index.html" crc="3959394726" seo="true" mt="1435990847960" redirect="true"/>
-  <file name="about.html" crc="3970753781" seo="true" mt="1435990832530" redirect="true"/>
-  <file name="deejay.html" crc="3984909853" seo="true" mt="1435990832530" redirect="true"/>
+  <file name="about.html" crc="4006371883" seo="true" mt="1435991018196" redirect="true"/>
+  <file name="deejay.html" crc="3824332989" seo="true" mt="1435991018196" redirect="true"/>
   <file name="site-info.html" crc="4095987067" seo="true" mt="1435930556636" redirect="true"/>
   <file name="under-construction.html" crc="3822552889" seo="true" mt="1435930776161" redirect="true"/>
 </manifest>
