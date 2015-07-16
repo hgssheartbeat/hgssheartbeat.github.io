@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1436517465422">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1437056845692">
   <folder name="assets">
     <file name="2015-07-09-19.04.54.jpg" crc="63976063" seo="true" mt="1436439894000"/>
   </folder>
@@ -9,7 +9,7 @@
     <file name="index.css" crc="134350885" ref="index"/>
     <file name="under-construction.css" crc="179533623" ref="under-construction"/>
     <file name="about.css" crc="3976867919" ref="about"/>
-    <file name="site-info.css" crc="270227055" ref="site-info"/>
+    <file name="site-info.css" crc="299856674" ref="site-info"/>
     <file name="deejay.css" crc="197862873" ref="deejay"/>
     <file name="404.css" crc="269618652" ref="404"/>
   </folder>
@@ -33,7 +33,7 @@
   <file name="index.html" crc="3821983005" seo="true" mt="1435991242934" redirect="true"/>
   <file name="about.html" crc="4006371883" seo="true" mt="1435991018196" redirect="true"/>
   <file name="deejay.html" crc="3824332989" seo="true" mt="1435991018196" redirect="true"/>
-  <file name="site-info.html" crc="4095987067" seo="true" mt="1435930556636" redirect="true"/>
+  <file name="site-info.html" crc="4095987067" seo="true" mt="1437056834331" redirect="true"/>
   <file name="under-construction.html" crc="3822552889" seo="true" mt="1435930776161" redirect="true"/>
   <file name="404.html" crc="107144039" seo="true" mt="1436517453337" redirect="true"/>
 </manifest>
