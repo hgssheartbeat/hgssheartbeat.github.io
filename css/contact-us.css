@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000E0;
-	background-color: #005418;
+	color: #0000EA;
+	background-color: #DA61B7;
 }
 
 .html
@@ -20,6 +20,75 @@
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#u344
+{
+	z-index: 37;
+	width: 198px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 151px;
+	left: 381px;
+}
+
+#u336
+{
+	z-index: 38;
+	width: 198px;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u336:hover
+{
+	background-color: #FFFFFF;
+	width: 198px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u342-4
+{
+	z-index: 40;
+	width: 198px;
+	min-height: 198px;
+	background-color: transparent;
+	line-height: 38px;
+	text-align: center;
+	font-size: 32px;
+	font-family: advent-pro, sans-serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u342-4:hover
+{
+	background-color: #FFFFFF;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 198px;
+	width: 198px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u342-4:hover p
+{
+	color: #000000;
+	visibility: inherit;
+	text-align: center;
+	font-size: 32px;
+}
+
+#u342-2
+{
+	padding-right: -1px;
+	visibility: hidden;/* 100% transparent text is hidden */
 }
 
 #pamphletu79

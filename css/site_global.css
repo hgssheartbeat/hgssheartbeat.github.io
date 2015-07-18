@@ -135,6 +135,31 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.Home
+{
+	font-family: open-sans-condensed, sans-serif;
+	font-size: 50px;
+	font-weight: 300;
+	text-align: center;
+	padding: 0px;
+}
+
+.AboutTitle
+{
+	font-family: advent-pro, sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	padding: 0px;
+}
+
+.AboutBody
+{
+	font-family: advent-pro, sans-serif;
+	font-size: 17px;
+	font-weight: 400;
+	padding: 0px;
+}
+
 .Menu-Buttons
 {
 	color: #383838;
