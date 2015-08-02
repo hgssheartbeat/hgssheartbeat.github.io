@@ -1,7 +1,7 @@
 .version.deejay /* version checker */
 {
-	color: #000015;
-	background-color: #003093;
+	color: #0000F2;
+	background-color: #89C6F6;
 }
 
 .html
@@ -332,9 +332,9 @@
 	width: 845px;
 	min-height: 85px;
 	background-color: transparent;
-	line-height: 86px;
 	text-align: center;
 	font-size: 72px;
+	line-height: 86px;
 	font-family: open-sans-condensed, sans-serif;
 	font-weight: 300;
 	margin-left: 58px;

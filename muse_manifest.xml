@@ -1,31 +1,30 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1437204724539">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="hgssheartbeat.mfdbyroy.ml" resolutions="1x" timestamp="1438521798967">
   <folder name="css">
     <file name="site_global.css" crc="215707613"/>
     <file name="master_footer.css" crc="4120621404" ref="about:deejay:contact-us:index"/>
     <file name="master_header---footer.css" crc="3903615214" ref="about:deejay:contact-us:index"/>
-    <file name="about.css" crc="91508046" ref="about"/>
-    <file name="deejay.css" crc="352333971" ref="deejay"/>
-    <file name="contact-us.css" crc="3940180407" ref="contact-us"/>
+    <file name="about.css" crc="4153152290" ref="about"/>
+    <file name="deejay.css" crc="4069115638" ref="deejay"/>
+    <file name="contact-us.css" crc="4194300387" ref="contact-us"/>
     <file name="index.css" crc="524740448" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="about:deejay:contact-us:index"/>
-    <file name="museutils.js" crc="183364071" ref="about:deejay:contact-us:index"/>
-    <file name="webpro.js" crc="3803554875" ref="about:deejay:contact-us:index"/>
-    <file name="musewpslideshow.js" crc="242596657" ref="about:deejay:contact-us:index"/>
-    <file name="jquery.museoverlay.js" crc="493285861" ref="about:deejay:contact-us:index"/>
-    <file name="touchswipe.js" crc="4038331989" ref="about:deejay:contact-us:index"/>
-    <file name="jquery.watch.js" crc="71412426" ref="about:deejay:contact-us:index"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="about:deejay:contact-us:index"/>
+    <file name="museutils.js" crc="275725342" ref="about:deejay:contact-us:index"/>
+    <file name="webpro.js" crc="3883484123" ref="about:deejay:contact-us:index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="about:deejay:contact-us:index"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="about:deejay:contact-us:index"/>
+    <file name="touchswipe.js" crc="4218319045" ref="about:deejay:contact-us:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="about:deejay:contact-us:index"/>
   </folder>
   <folder name="images">
     <file name="pointer.png" crc="3760686964" seo="true" ref="about:deejay:contact-us:index"/>
     <file name="v2tp.png" crc="3935683490" seo="true" ref="about:deejay:contact-us:index"/>
     <file name="menu_icon_04_white_3line-crop-u118.png" crc="4113681886" ref="about:deejay:contact-us:index"/>
-    <file name="menu_icon_04_white_3line-crop-u285.png" crc="4113681886" ref="about"/>
     <file name="logotp.png" crc="272539919" seo="true" ref="contact-us"/>
   </folder>
-  <file name="about.html" crc="3967311041" seo="true" mt="1437204714212" redirect="true"/>
-  <file name="deejay.html" crc="3778174074" seo="true" mt="1437204714205" redirect="true"/>
-  <file name="contact-us.html" crc="4188418265" seo="true" mt="1437204714203" redirect="true"/>
-  <file name="index.html" crc="310870505" seo="true" mt="1437204714217" redirect="true"/>
+  <file name="about.html" crc="3895909870" seo="true" mt="1438521199033" redirect="true"/>
+  <file name="deejay.html" crc="471688077" seo="true" mt="1438521199008" redirect="true"/>
+  <file name="contact-us.html" crc="4291080090" seo="true" mt="1438521253193" redirect="true"/>
+  <file name="index.html" crc="3871256000" seo="true" mt="1438521199008" redirect="true"/>
 </manifest>
